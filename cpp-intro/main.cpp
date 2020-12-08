@@ -8,12 +8,12 @@
 #include <iostream>
 
 int main() {
-  int i = 4;
-  i = i + 2;
-  
-  char c = 'a';
+    int i = 4;
+    i = i + 2;
 
-  std::cout << i << " " << c << std::endl;
+    char c = 'a';
 
-  return 0;
+    std::cout << i << " " << c << std::endl;
+
+    return 0;
 }
