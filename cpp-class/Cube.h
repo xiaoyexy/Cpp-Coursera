@@ -12,11 +12,11 @@
 // of the class, curly braces, and a required semicolon
 // at the end:
 class Cube {
-  public:  // Public members:
+   public:  // Public members:
     double getVolume();
     double getSurfaceArea();
     void setLength(double length);
 
-  private: // Private members:
+   private:  // Private members:
     double length_;
 };
